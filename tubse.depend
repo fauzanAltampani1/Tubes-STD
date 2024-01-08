@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1704657855 source:d:\tubesngentot\tubse\kereta.cpp
+	"jk.h"
+	<iostream>
+
+1704657880 d:\tubesngentot\tubse\jk.h
+	<iostream>
+	<string>
+
+1703810612 source:d:\tubesngentot\tubse\main.cpp
+	<iostream>
+	"jk.h"
+	"relasi.h"
+
+1703810612 d:\tubesngentot\tubse\relasi.h
+	"jk.h"
+	<iostream>
+
+1703810591 source:d:\tubesngentot\tubse\penumpang.cpp
+	"jk.h"
+	<iostream>
+
+1703810612 source:d:\tubesngentot\tubse\relasi.cpp
+	"jk.h"
+	"relasi.h"
+	<iostream>
+
+1704690065 source:d:\tubesngentot\tubse\menu.cpp
+	"jk.h"
+	"relasi.h"
+	"menu.h"
+	<iostream>
+
+1704660817 d:\tubesngentot\tubse\menu.h
+	"jk.h"
+	"relasi.h"
+	<iostream>
+
+1704657855 source:d:\tubess\tubse\kereta.cpp
+	"jk.h"
+	<iostream>
+
+1704657880 d:\tubess\tubse\jk.h
+	<iostream>
+	<string>
+
+1703810612 source:d:\tubess\tubse\main.cpp
+	<iostream>
+	"jk.h"
+	"relasi.h"
+
+1703810612 d:\tubess\tubse\relasi.h
+	"jk.h"
+	<iostream>
+
+1704702712 source:d:\tubess\tubse\menu.cpp
+	"jk.h"
+	"relasi.h"
+	"menu.h"
+	<iostream>
+
+1704660817 d:\tubess\tubse\menu.h
+	"jk.h"
+	"relasi.h"
+	<iostream>
+
+1703810591 source:d:\tubess\tubse\penumpang.cpp
+	"jk.h"
+	<iostream>
+
+1703810612 source:d:\tubess\tubse\relasi.cpp
+	"jk.h"
+	"relasi.h"
+	<iostream>
+
